@@ -16,7 +16,7 @@
 - 🌱 Currently learning backend development in depth (leaning towards **.NET**)
 - 🛠️ Comfortable with Python, FastAPI, SQL databases and Docker
 - 🚀 I like projects that ship: deployed, live, and usable by real people
-- 📫 Reach me: **YOUR_EMAIL_OR_LINKEDIN_HERE**
+- 📫 Reach me: utkarshsarkar.work@gmail.com
 
 ---
 
