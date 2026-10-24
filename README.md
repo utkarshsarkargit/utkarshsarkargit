@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Utkarsh 👋</h1>
 
 <p align="center">
-  Backend + ML/data builder · Python, FastAPI & Docker · Learning in public
+  Backend + ML/data builder · Python, FastAPI & Docker · Learning 
 </p>
 
 <p align="center">
